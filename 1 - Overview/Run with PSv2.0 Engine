@@ -1,0 +1,9 @@
+# Start Windows PowerShell 2.0 Engine
+PowerShell.exe -Version 2
+
+# Start a Remote Session with Windows PowerShell 2.0 Engine
+Register-PSSessionConfiguration -Name PS2 -PSVersion 2.0
+$s = New-PSSession -ComputerName Server01 -ConfigurationName PS2
+
+# Start a Background Job with Windows PowerShell 2.0 Engine
+Start-Job {Get-Process} -PSVersion 2.0
