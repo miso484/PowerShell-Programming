@@ -41,4 +41,3 @@ Test-SampleCmdlet -FavoriteNumber 7 -FavoritePet Cat
 ### Within the module manifest, the PrivateData property has a PSData sub-property. The optional Tags property of PSData takes an array of values that show up in PowerShell Gallery.
 
 ### Check 3.6.1_Example.ps1
-
