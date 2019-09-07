@@ -1,3 +1,15 @@
+<#
+PATHS AFTER INSTALLATION
+
+    $PSHOME is /opt/microsoft/powershell/6.2.0/
+    User profiles will be read from ~/.config/powershell/profile.ps1
+    Default profiles will be read from $PSHOME/profile.ps1
+    User modules will be read from ~/.local/share/powershell/Modules
+    Shared modules will be read from /usr/local/share/powershell/Modules
+    Default modules will be read from $PSHOME/Modules
+    PSReadline history will be recorded to ~/.local/share/powershell/PSReadLine/ConsoleHost_history.txt
+#>
+
 ## INSTALL ON UBUNTU 18.04 ##
 
 # Download the Microsoft repository GPG keys
