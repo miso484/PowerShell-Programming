@@ -1,0 +1,15 @@
+{
+    "CARD_MODEL_TITLE": "OWNER'S MANUAL",
+    "CARD_MODEL_SUBTITLE": "Configure your download",
+    "CARD_MODEL_SELECT": "Select Model",
+    "CARD_LANG_TITLE": "Select Language",
+    "CARD_LANG_DEVICE_LANG": "Your device",
+    "CARD_YEAR_TITLE": "Select Model Year",
+    "CARD_YEAR_LATEST": "(Latest)",
+    "STEPS_MODEL": "Model",
+    "STEPS_LANGUAGE": "Language",
+    "STEPS_YEAR": "Model Year",
+    "BUTTON_BACK": "Back",
+    "BUTTON_NEXT": "Next",
+    "BUTTON_CLOSE": "Close"
+}
